@@ -16,7 +16,7 @@ Major publications given below. See also [Google Scholar](https://scholar.google
 
 ## [2019]
 
-**[16] **Sehlke, A.**, Mirmalek, Z., Burtt, D., Haberle, C. W., Santiago-Materese, D., Kobs Nawotniak, S. E., Hughes, S. S., Garry, W. B., Bramall, N., Brown, A. J., Heldmann, J. L., & Lim, D. S. S. (2019). Requirements for Portable Instrument Suites during Human Scientific Exploration of Mars. *Astrobiology*, *19*(3), 401–425. <https://doi.org/10.1089/ast.2018.1841>
+**[16] ** **Sehlke, A.**, Mirmalek, Z., Burtt, D., Haberle, C. W., Santiago-Materese, D., Kobs Nawotniak, S. E., Hughes, S. S., Garry, W. B., Bramall, N., Brown, A. J., Heldmann, J. L., & Lim, D. S. S. (2019). Requirements for Portable Instrument Suites during Human Scientific Exploration of Mars. *Astrobiology*, *19*(3), 401–425. <https://doi.org/10.1089/ast.2018.1841>
 
 **[15]** Hughes, S. S., Haberle, C. W., Kobs Nawotniak, S. E., **Sehlke, A.**, Garry, W. B., Elphic, R. C., Payler, S. J., Stevens, A. H., Cockell, C. S., Brady, A. L., Heldmann, J. L., & Lim, D. S. S. (2019). Basaltic Terrains in Idaho and Hawai‘i as Planetary Analogs for Mars Geology and Astrobiology. *Astrobiology*, *19*(3), 260–283. <https://doi.org/10.1089/ast.2018.1847>
 
