@@ -2,6 +2,10 @@
 title: Publications
 ---
 
+Major publications given below. See also [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) author page for additional information.
+
+
+
 ## [2020]
 
 **[19]** **Sehlke, A.,** Hofmeister, A. M., & Whittington, A. G. (2020). Thermal Properties of Glassy and Molten Planetary Candidate Lavas. *Planetary and Space Science*, Special Issue in Volcanic Analogs,  in review.
