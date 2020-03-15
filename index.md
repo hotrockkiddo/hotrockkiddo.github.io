@@ -10,6 +10,6 @@ I integrate field observations with labortaory exoperimenbts to study magma asce
 
 I study the physical and tehrmal properties of terrestrial lava, planetary analog magma/lava, lunar samples, and meteorites.
 
-I am very intersted to work with students in the field and experminetal studies. Please [email me](<alexander.sehlke@nasa.gov>) for opportunities.
+I am very intersted to work with students in the field and/or helping with laboratory experiments. Please [email me](<alexander.sehlke@nasa.gov>) for opportunities.
 
 **Research keywords:** Magma/Lava Rheology; Lava Flow Morpholgy; Heat Transfer (thermal diffusivity and conductivity, heat capacity); Thermoluminescence; Thermodynamics;
