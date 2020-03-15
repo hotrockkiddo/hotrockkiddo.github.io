@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-Major publications given below. See also [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) author page for additional information.
+Major publications given below. See also my [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) author page for additional information.
 
 <!--* Table of Contents
 {:toc}-->
