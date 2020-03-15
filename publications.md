@@ -4,7 +4,8 @@ title: Publications
 
 Major publications given below. See also [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) author page for additional information.
 
-
+<!--* Table of Contents
+{:toc}-->
 
 ## [2020]
 
