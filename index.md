@@ -12,4 +12,4 @@ I study the physical and tehrmal properties of terrestrial lava, planetary analo
 
 I am very intersted to work with students in the field and/or helping with laboratory experiments. Please [email me](mailto:alexander.sehlke@nasa.gov) for opportunities.
 
-**Research keywords:** Magma/Lava Rheology; Lava Flow Morpholgy; Heat Transfer (thermal diffusivity and conductivity, heat capacity); Thermoluminescence; Thermodynamics;
+**Research keywords:** Magma/Lava Rheology; Lava Flow Morphology; Heat Transfer (thermal diffusivity and conductivity, heat capacity); Thermoluminescence; Thermodynamics;
