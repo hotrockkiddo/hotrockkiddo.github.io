@@ -9,9 +9,13 @@ Major publications given below. See also my [Google Scholar](https://scholar.goo
 
 ## [2020]
 
-**[19]** **Sehlke, A.,** Hofmeister, A. M., & Whittington, A. G. (2020). Thermal Properties of Glassy and Molten Planetary Candidate Lavas. *Planetary and Space Science*, Special Issue in Volcanic Analogs,  in review.
+Brady, A. L., Gibbons, E., **Sehlke, A**., Renner, C. J., Kobs Nawotniak, S. E., Lim, D. S. S., & Slater, G. F. (2020). Microbial community distribution in variously altered basalts: Insights into astrobiology sample site selection. *Planetary and Space Science*, *194*, 105107. https://doi.org/10.1016/J.PSS.2020.105107
 
-**[18]** **Sehlke, A.,** & Whittington, A. G. (2020). Rheology of a KREEP Analog Magma: Experimental Results Applied to Dike Ascent through the Lunar Crust. *Planetary and Space Science*, Special Issue in Volcanic Analogs, in press. [Full text available on ResearchGate.](https://www.researchgate.net/publication/340938678_Rheology_of_a_KREEP_Analog_Magma_Experimental_Results_Applied_to_Dike_Ascent_through_the_Lunar_Crust)
+Hughes, S. S., Garry, W. B., **Sehlke, A.**, Christiansen, E. H., Kobs Nawotniak, S. E., Sears, D. W. G., Elphic, R. C., Lim, D. S. S., & Heldmann, J. L. (2020). Basaltic fissure types on Earth: Suitable analogs to evaluate the origins of volcanic terrains on the Moon and Mars? *Planetary and Space Science*, *193*, 105091. https://doi.org/10.1016/J.PSS.2020.105091**
+
+**[19]** **Sehlke, A.**, Hofmeister, A. M., & Whittington, A. G. (2020). Thermal properties of glassy and molten planetary candidate lavas. *Planetary and Space Science*, *193*, 105089. https://doi.org/10.1016/J.PSS.2020.105089
+
+**[18]** **Sehlke, A.**, & Whittington, A. G. (2020). Rheology of a KREEP Analog Magma: Experimental Results Applied to Dike Ascent through the Lunar Crust. *Planetary and Space Science*, *187*. https://doi.org/https://doi.org/10.1016/j.pss.2020.104941.
 
 **[17]** Morrison, A. A., Whittington, A., Smets, B., Kervyn, M. and **Sehlke, A.** (2020) “The Rheology of Crystallizing basaltic lavas from Nyiragongo and Nyamuragira volcanoes, D.R.C.”, Volcanica, 3(1), pp. 1-28. <https://doi.org/10.30909/vol.03.01.0128>
 
