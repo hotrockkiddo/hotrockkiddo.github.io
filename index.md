@@ -4,9 +4,7 @@ layout: home
 
 ![volcano image](static/introphoto.png)
 
-Hello, my name is **Alex Sehlke**, I am a research scientist at NASA Ames Research Center in California[^fn1].
-
-[^fn1]: contracting through the Bay Area Environmental Research Institute
+Hello, my name is **Alex Sehlke**, I am a research scientist at NASA Ames Research Center[^fn1] in California.
 
 
 
@@ -15,3 +13,12 @@ I integrate field observations, laboratory experiments and modeling to study mag
 I am very intersted to work with students in the field and/or helping with laboratory experiments. Please [email me](mailto:alexander.sehlke@nasa.gov) for opportunities.
 
 **Research keywords:** Magma/Lava Rheology; Lava Flow Morphology; Heat Transfer (thermal diffusivity and conductivity, heat capacity); Thermoluminescence; Remote Sensing
+
+
+
+
+
+###### Footnote
+
+[^fn1]: contracting through the Bay Area Environmental Research Institute
+
