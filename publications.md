@@ -9,9 +9,9 @@ Major publications given below. See also my [Google Scholar](https://scholar.goo
 
 ## [2021]
 
-[23] Jenniskens, P., Gabadirwe, M., Yun, Q. Z., with **Sehlke, A.** among 61 (2021) The impact and recovery of asteroid 2018 LA. *Meteoritics & Planetary Science 1-50*. https://doi.org/10.1111/maps.13653
+**[23]** Jenniskens, P., Gabadirwe, M., Yun, Q. Z., with **Sehlke, A.** among 61 (2021) The impact and recovery of asteroid 2018 LA. *Meteoritics & Planetary Science 1-50*. https://doi.org/10.1111/maps.13653
 
-[22] Sears, D. W. G., Sehlke, A., & Hughes, S. S. (2021). Induced thermoluminescence as a method for dating recent volcanism: The Blue Dragon flow, Idaho, USA and the factors affecting induced thermoluminescence. *Planetary and Space Science*, *195*, 105129. https://doi.org/10.1016/j.pss.2020.105129
+**[22]** Sears, D. W. G., **Sehlke, A.**, & Hughes, S. S. (2021). Induced thermoluminescence as a method for dating recent volcanism: The Blue Dragon flow, Idaho, USA and the factors affecting induced thermoluminescence. *Planetary and Space Science*, *195*, 105129. https://doi.org/10.1016/j.pss.2020.105129
 
 ## [2020]
 
