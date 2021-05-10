@@ -4,7 +4,7 @@ layout: home
 
 ![volcano image](static/introphoto.png)
 
-Hello, my name is **Alex Sehlke**, I am a research scientist at NASA Ames Research Center in California.
+Hello, my name is **Alex Sehlke**, I am a research scientist at NASA Ames Research Center in California[^fn1].
 
 [^fn1]: contracting through the Bay Area Environmental Research Institute
 
