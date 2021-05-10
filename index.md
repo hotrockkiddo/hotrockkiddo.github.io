@@ -4,11 +4,11 @@ layout: home
 
 ![volcano image](static/introphoto.png)
 
-Hello, my name is **Alex Sehlke**, I am a research scientist at NASA Ames Research Center
+Hello, my name is **Alex Sehlke**, I am a research scientist at NASA Ames Research Center in California.
 
-[^1]: contracting with the Bay Area Environmental Research Institute
+[^fn1]: contracting through the Bay Area Environmental Research Institute
 
- in California.
+
 
 I integrate field observations, laboratory experiments and modeling to study magma ascent, volcanic eruptions and lava emplacement on Earth and other rocky bodies in the solar system. My work includes the study of the physical and thermal properties of terrestrial lava, planetary analog magma/lava. Moreover, I use Thermoluminescence to reconstruct the thermal and temperature history of geologic samples. Moreover, I study the use of portable spectrometers (VNIR, XRF, LIBS) on volcanic terrains, and how they may be incorporated into future human space flight missions. I am also developing science instruments for future lunar payload missions.
 
