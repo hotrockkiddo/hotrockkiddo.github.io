@@ -16,3 +16,8 @@ I operate a rheometer to measure the viscosity of silicate melts (liquids and cr
 
 ------
 
+### Technology Development for Space Exploration
+
+##### THEIA - THermoluminescence Exploration Instrument for Artemis
+
+##### Handheld Spectrometers for in-situ Mineralogical &Geochemical Measurements during Human Exploration Missions
