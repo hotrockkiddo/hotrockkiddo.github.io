@@ -13,6 +13,6 @@ I am have several active research grants supporting the following studies:
 
 * **Thermoluminescence Studies of Lunar Samples and Meteorites:**
 
-* <img src="static/ANGSA_TL-logo_v3_small.png" alt="Apollo 17 Thermoluminescence" style="zoom:50%; float=right" />
+* <img src="static/ANGSA_TL-logo_v3_small.png" alt="Apollo 17 Thermoluminescence" style="zoom:25%; float=right" />
 
 * **Spectral and Geochmical Signatures of Spatter Deposits interacting with Water and Ice:**
