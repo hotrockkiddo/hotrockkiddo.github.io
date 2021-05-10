@@ -7,6 +7,12 @@ Major publications given below. See also my [Google Scholar](https://scholar.goo
 <!--* Table of Contents
 {:toc}-->
 
+## [2021]
+
+[23] Jenniskens, P., Gabadirwe, M., Yun, Q. Z., with **Sehlke, A.** among 61 (2021) The impact and recovery of asteroid 2018 LA. *Meteoritics & Planetary Science 1-50*. https://doi.org/10.1111/maps.13653
+
+[22] Sears, D. W. G., Sehlke, A., & Hughes, S. S. (2021). Induced thermoluminescence as a method for dating recent volcanism: The Blue Dragon flow, Idaho, USA and the factors affecting induced thermoluminescence. *Planetary and Space Science*, *195*, 105129. https://doi.org/10.1016/j.pss.2020.105129
+
 ## [2020]
 
 **[21]** Brady, A. L., Gibbons, E., **Sehlke, A**., Renner, C. J., Kobs Nawotniak, S. E., Lim, D. S. S., & Slater, G. F. (2020). Microbial community distribution in variously altered basalts: Insights into astrobiology sample site selection. *Planetary and Space Science*, *194*, 105107. <https://doi.org/10.1016/J.PSS.2020.105107>
