@@ -14,4 +14,5 @@ I operate a rheometer to measure the viscosity of silicate melts (liquids and cr
 
 <img src="static/ANGSA_TL-logo_v3_small.png" alt="Apollo 17 Thermoluminescence" style="zoom:25%; float=right" />
 
-* **Spectral and Geochmical Signatures of Spatter Deposits interacting with Water and Ice:**
+------
+
