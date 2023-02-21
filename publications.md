@@ -7,7 +7,15 @@ Major publications given below. See also my [Google Scholar](https://scholar.goo
 <!--* Table of Contents
 {:toc}-->
 
+
+## [2022]
+**[26]** Sears DWG, **Sehlke A**, Hughes S, Kobs-Nawotniak SE (2022) Ejecta blocks around the Kings Bowl phreatomagmatic crater in Idaho: An indication of subsurface water amounts with implications for Mars. *Planetary and Space Science* 222. https://doi.org/10.1016/j.pss.2022.105564
+
+**[25]** Rader E, Ackiss S, **Sehlke A**, Bishop J, Orrill B, Odegaard K, Meier M, Doloughan A (2022) Average VNIR reflectance: A rapid, sample-free method to estimate glass content and crystallinity of fresh basaltic lava. *Icarus Volume 383* https://doi.org/10.1016/j.icarus.2022.115084
+
+
 ## [2021]
+**[24]** Whittington AG and **Sehlke A** (2021) Spontaneous reheating of crystallizing lava. *Geology* Volume 49, Issue 12. https://doi.org/10.1130/G49148.1
 
 **[23]** Jenniskens, P., Gabadirwe, M., Yun, Q. Z., with **Sehlke, A.** among 61 (2021) The impact and recovery of asteroid 2018 LA. *Meteoritics & Planetary Science 1-50*. https://doi.org/10.1111/maps.13653
 
