@@ -9,17 +9,18 @@ Major publications given below. See also my [Google Scholar](https://scholar.goo
 
 
 ## [2022]
-**[26]** Sears DWG, **Sehlke A**, Hughes S, Kobs-Nawotniak SE (2022) Ejecta blocks around the Kings Bowl phreatomagmatic crater in Idaho: An indication of subsurface water amounts with implications for Mars. *Planetary and Space Science* 222. https://doi.org/10.1016/j.pss.2022.105564
+**[26]** Sears DWG, **Sehlke A**, Hughes S, Kobs-Nawotniak SE (2022) Ejecta blocks around the Kings Bowl phreatomagmatic crater in Idaho: An indication of subsurface water amounts with implications for Mars. *Planetary and Space Science* 222. [https://doi.org/10.1016/j.pss.2022.105564](https://doi.org/10.1016/j.pss.2022.105564)
 
-**[25]** Rader E, Ackiss S, **Sehlke A**, Bishop J, Orrill B, Odegaard K, Meier M, Doloughan A (2022) Average VNIR reflectance: A rapid, sample-free method to estimate glass content and crystallinity of fresh basaltic lava. *Icarus Volume 383* https://doi.org/10.1016/j.icarus.2022.115084
+
+**[25]** Rader E, Ackiss S, **Sehlke A**, Bishop J, Orrill B, Odegaard K, Meier M, Doloughan A (2022) Average VNIR reflectance: A rapid, sample-free method to estimate glass content and crystallinity of fresh basaltic lava. *Icarus Volume 383* [https://doi.org/10.1016/j.icarus.2022.115084](https://doi.org/10.1016/j.pss.2022.105564)
 
 
 ## [2021]
-**[24]** Whittington AG and **Sehlke A** (2021) Spontaneous reheating of crystallizing lava. *Geology* Volume 49, Issue 12. https://doi.org/10.1130/G49148.1
+**[24]** Whittington AG and **Sehlke A** (2021) Spontaneous reheating of crystallizing lava. *Geology* Volume 49, Issue 12. [https://doi.org/10.1130/G49148.1](https://doi.org/10.1016/j.pss.2022.105564)
 
-**[23]** Jenniskens, P., Gabadirwe, M., Yun, Q. Z., with **Sehlke, A.** among 61 (2021) The impact and recovery of asteroid 2018 LA. *Meteoritics & Planetary Science 1-50*. https://doi.org/10.1111/maps.13653
+**[23]** Jenniskens, P., Gabadirwe, M., Yun, Q. Z., with **Sehlke, A.** among 61 (2021) The impact and recovery of asteroid 2018 LA. *Meteoritics & Planetary Science 1-50*. [https://doi.org/10.1111/maps.13653](https://doi.org/10.1016/j.pss.2022.105564)
 
-**[22]** Sears, D. W. G., **Sehlke, A.**, & Hughes, S. S. (2021). Induced thermoluminescence as a method for dating recent volcanism: The Blue Dragon flow, Idaho, USA and the factors affecting induced thermoluminescence. *Planetary and Space Science*, *195*, 105129. https://doi.org/10.1016/j.pss.2020.105129
+**[22]** Sears, D. W. G., **Sehlke, A.**, & Hughes, S. S. (2021). Induced thermoluminescence as a method for dating recent volcanism: The Blue Dragon flow, Idaho, USA and the factors affecting induced thermoluminescence. *Planetary and Space Science*, *195*, 105129. [https://doi.org/10.1016/j.pss.2020.105129](https://doi.org/10.1016/j.pss.2022.105564)
 
 ## [2020]
 
