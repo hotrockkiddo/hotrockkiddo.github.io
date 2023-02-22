@@ -21,18 +21,23 @@ Early career researcher with 10+ years of research experience, NASA postdoctoral
 
 
 
+
+
 **<u>CURRENT POSITION</u>**
 
 Research Scientist at NASA Ames Research Center, contracting through the Bay Area Environmental Research Institute, Moffett Field, CA 94035
 
 
 
+
+
 **<u>EDUCATION</u>**
 
 **2015 Ph.D. in Geological Science** with Minor in College Teaching
+
 University of Missouri, Columbia MO
 
-Thesis Title: “The Rheological Evolution of Planetary Basalts During Cooling and Crystallization”. Thesis Advisor: Dr. Alan G. Whittington
+Thesis Title: *“The Rheological Evolution of Planetary Basalts During Cooling and Crystallization”*. Thesis Advisor: Dr. Alan G. Whittington
 
 
 
@@ -41,12 +46,18 @@ Leibniz University of Hannover, Germany
 
 
 
+
+
 **<u>PROFESSIONAL APPOINTMENTS</u>**
 
-**Since 2019 - Research Scientist** at NASA Ames Research Center/ BAER Institute, Moffett Field CA, USA
+**Since 2019 - Research Scientist**
+
+at NASA Ames Research Center/ BAER Institute, Moffett Field CA, USA
 
 
 
-**2019-2016 - NASA Postdoctoral Fellow** at at NASA Ames Research Center, Moffett Field CA, USA
+**2019-2016 - NASA Postdoctoral Fellow**
+
+at at NASA Ames Research Center, Moffett Field CA, USA
 
 
