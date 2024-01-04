@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-<mark>[PDF version of CV can be found here: Click me](/static/Sehlke_CV_November2023.pdf)</mark>
+[PDF version of CV can be found here: Click me](/static/Sehlke_CV_November2023.pdf)
 
 
 
