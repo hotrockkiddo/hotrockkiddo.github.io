@@ -4,18 +4,30 @@ title: Publications
 
 Major publications given below. See also my [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) author page for additional information.
 
+
+
 <!--* Table of Contents
 {:toc}-->
 
+## [2023]
+
+**[27]** **Sehlke, A.**, Sears, D.W.G, and the ANGSA Science Team (2023) The
+Apollo 17 Regolith: Induced Thermoluminescence Evidence for
+Formation by a Single Event ~100 Million Years Ago and Possibly the
+Presence of Tycho Material. JGR Planets ANGSA special Issue, in review
+
+Preprint: https://authorea.com/users/547014/articles/670748-the-apollo-17-regolith-induced-thermoluminescence-evidence-for-formation-by-a-single-event-100-million-years-ago-and-possibly-the-presence-of-tycho-material
+
+
 
 ## [2022]
-**[26]** Sears DWG, **Sehlke A**, Hughes S, Kobs-Nawotniak SE (2022) Ejecta blocks around the Kings Bowl phreatomagmatic crater in Idaho: An indication of subsurface water amounts with implications for Mars. *Planetary and Space Science* 222. [https://doi.org/10.1016/j.pss.2022.105564](https://doi.org/10.1016/j.pss.2022.105564)
 
+**[26]** Sears DWG, **Sehlke A**, Hughes S, Kobs-Nawotniak SE (2022) Ejecta blocks around the Kings Bowl phreatomagmatic crater in Idaho: An indication of subsurface water amounts with implications for Mars. *Planetary and Space Science* 222. [https://doi.org/10.1016/j.pss.2022.105564](https://doi.org/10.1016/j.pss.2022.105564)
 
 **[25]** Rader E, Ackiss S, **Sehlke A**, Bishop J, Orrill B, Odegaard K, Meier M, Doloughan A (2022) Average VNIR reflectance: A rapid, sample-free method to estimate glass content and crystallinity of fresh basaltic lava. *Icarus Volume 383* [https://doi.org/10.1016/j.icarus.2022.115084](https://doi.org/10.1016/j.pss.2022.105564)
 
-
 ## [2021]
+
 **[24]** Whittington AG and **Sehlke A** (2021) Spontaneous reheating of crystallizing lava. *Geology* Volume 49, Issue 12. [https://doi.org/10.1130/G49148.1](https://doi.org/10.1016/j.pss.2022.105564)
 
 **[23]** Jenniskens, P., Gabadirwe, M., Yun, Q. Z., with **Sehlke, A.** among 61 (2021) The impact and recovery of asteroid 2018 LA. *Meteoritics & Planetary Science 1-50*. [https://doi.org/10.1111/maps.13653](https://doi.org/10.1016/j.pss.2022.105564)
@@ -77,4 +89,3 @@ Major publications given below. See also my [Google Scholar](https://scholar.goo
 **[2]** **Sehlke, A.**, Whittington, A. G., Robert, B., Harris, A., Gurioli, L., Médard, E., & Sehlke, A. (2014). Pahoehoe to áá transition of Hawaiian lavas: An experimental study. *Bulletin of Volcanology*, *76*(11). <https://doi.org/10.1007/s00445-014-0876-9>
 
 **[1]** Robert, B., Harris, A., Gurioli, L., Médard, E., **Sehlke, A.**, & Whittington, A. G. (2014). Textural and rheological evolution of basalt flowing down a lava channel. *Bulletin of Volcanology*, *76*(6), 1–21. <https://doi.org/10.1007/s00445-014-0824-8>
-
