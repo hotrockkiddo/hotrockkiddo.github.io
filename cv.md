@@ -2,11 +2,11 @@
 title: Curriculum Vitae
 ---
 
-[PDF version of CV can be found here: Click me]
+<mark>[PDF version of CV can be found here: Click me]((https://raw.githubusercontent.com/hotrockkiddo/hotrockkiddo.github.io/fdc176aa0e10a925f507cbae8f1d70d8f2a4b2bc/static/Sehlke_CV_November2023.pdf))</mark>
 
-```
-(file:static/Sehlke_CV_November2023.pdf)
-```
+
+
+
 
 Dr. Alexander Sehlke
 
