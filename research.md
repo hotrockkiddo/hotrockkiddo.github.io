@@ -8,7 +8,9 @@ I study the thermoluminescene (TL) properties of lunar and lunar analog samples,
 
 
 
-Moreover, I am also pursuing to develip a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is nam,ed after the greek deity Theia who gives glimmer and shining to materials.
+Moreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials.
+
+
 
 ____
 
